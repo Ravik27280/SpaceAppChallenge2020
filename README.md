@@ -7,6 +7,14 @@
  [@Ravik27280](https://github.com/Ravik27280) | [@Ruchi27280](https://github.com/Ruchi27280) | [@UtkarshMishra12](https://github.com/UtkarshMishra12) | [@saumyabathla](https://github.com/saumyabathla) | [@muskaanmittal](https://github.com/muskaanmittal)
 
 ## Resources
-$ https://www.nasa.gov/content/solar-missions-list
-$ https://nasa3d.arc.nasa.gov/models
-$ https://www.mixamo.com/
+- https://www.nasa.gov/content/solar-missions-list
+- https://nasa3d.arc.nasa.gov/models
+- https://www.mixamo.com/
+- https://assetstore.unity.com/
+
+## Technology used 
+- UNITY 3D
+- GoogleVR SDK
+- Blender
+- IBM Watson
+
