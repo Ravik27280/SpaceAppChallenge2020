@@ -21,4 +21,5 @@
 ## High level summary
 This app aims at proving a virtual tour to NASA’s missions and stories. The user can experience the events using a VR headset or in AR. The AI guide acts as a Historian and demonstrates the missions to the user. The user feels like he himself is exploring the place with a guide. The user gets to select what they want to explore and there is also an option to select a specific mission to explore. The guide i.e. the assistant tells the history for the missions carried out by NASA over the years and educates the user. This app provides an interactive way to know and gain knowledge about the various missions and the ongoing work by NASA.  
 ## Important links
-- https://drive.google.com/drive/folders/1O0YoOnc64VPCF5Sus42aYlCderbxoE3m?usp=sharing
+- apk file = https://drive.google.com/drive/folders/1O0YoOnc64VPCF5Sus42aYlCderbxoE3m?usp=sharing
+- demo Video = https://youtu.be/zTdUPBIcyMY
