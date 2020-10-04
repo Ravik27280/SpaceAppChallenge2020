@@ -2785,8 +2785,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -163.6, y: 173.8}
-  m_SizeDelta: {x: 350.02753, y: 44.669052}
+  m_AnchoredPosition: {x: -105.4, y: 173.8}
+  m_SizeDelta: {x: 466.42957, y: 44.669052}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1738387512
 MonoBehaviour:
@@ -2807,7 +2807,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: History Of NASA
+  m_text: Planet History By NASA
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
